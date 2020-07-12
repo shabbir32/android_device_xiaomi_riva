@@ -39,6 +39,6 @@ TARGET_VENDOR_PRODUCT_NAME := riva
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="riva" \
     PRODUCT_NAME="riva" \
-    PRIVATE_BUILD_DESC="riva-user 7.1.2 N2G47H V9.5.6.0.NCKMIFA release-keys"
+    PRIVATE_BUILD_DESC="riva-user 8.1.0 OPM1.171019.026 V11.0.2.0.OCKMIXM release-keys"
 
-BUILD_FINGERPRINT := Xiaomi/riva/riva:7.1.2/N2G47H/V9.5.6.0.NCKMIFA:user/release-keys
+BUILD_FINGERPRINT := Xiaomi/riva/riva:8.1.0/OPM1.171019.026/V11.0.2.0.OCKMIXM:user/release-keys

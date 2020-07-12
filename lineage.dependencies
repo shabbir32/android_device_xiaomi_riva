@@ -4,7 +4,7 @@
    "target_path": "packages/resources/devicesettings"
 },
  {
-   "repository": "android_kernel_xiaomi_msm8937",
-   "target_path": "kernel/xiaomi/msm8917"
+   "repository": "android_kernel_xiaomi_riva",
+   "target_path": "kernel/xiaomi/riva"
  }
 ]
